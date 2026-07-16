@@ -19,21 +19,27 @@ body{
     align-items: center;
 }
 
-.light{
-    width: 80px;
+
+.green{
+        width: 80px;
     height: 80px;
     border: 3px solid black;
     border-radius: 50%;
-}
-
-.green{
     background-color: green;
 }
 
 .yellow{
+        width: 80px;
+    height: 80px;
+    border: 3px solid black;
+    border-radius: 50%;
     background-color: yellow;
 }
 
 .red{
+        width: 80px;
+    height: 80px;
+    border: 3px solid black;
+    border-radius: 50%;
     background-color: red;
 }
