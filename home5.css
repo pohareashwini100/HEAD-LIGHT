@@ -20,7 +20,7 @@ body{
 }
 
 
-.green{
+.circlegreen{
         width: 80px;
     height: 80px;
     border: 3px solid black;
@@ -28,7 +28,7 @@ body{
     background-color: green;
 }
 
-.yellow{
+.circleyellow{
         width: 80px;
     height: 80px;
     border: 3px solid black;
@@ -36,7 +36,7 @@ body{
     background-color: yellow;
 }
 
-.red{
+.circlered{
         width: 80px;
     height: 80px;
     border: 3px solid black;
